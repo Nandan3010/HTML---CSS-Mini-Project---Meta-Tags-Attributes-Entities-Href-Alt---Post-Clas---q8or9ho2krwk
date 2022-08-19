@@ -1,5 +1,5 @@
 <b>PEIVATE PROJECT.</b><br>
-<i>It is a frontoend for a sample portfolio website for a photographer.The site is developed using HTML/CSS.there is only one webpage in this website.
+<i>It is a front-end for a sample portfolio website for a photographer.The site is developed using HTML/CSS.there is only one webpage in this website.
 <br>
 view work button is just to go directly on Some pictures uploded on site , so the user can get idea for photography and a Biginer can get inspiration.
 <br>
